@@ -26,4 +26,4 @@ puts "Multiplicación:"
 	puts ""
 	end
 end
-
+multiplicacion(a,b,c)
